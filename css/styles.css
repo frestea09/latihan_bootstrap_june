@@ -1,0 +1,38 @@
+body{
+    font-family: sans-serif;
+    background-color: #f9d2e2;
+}
+.navbar{
+    background-color: #dc2167;
+}
+#jumbotron{
+    margin-bottom: -30px;
+}
+#jumbotron .jumbotron{
+    background-image: url("background.jpg");
+    background-size: cover;
+}
+#footer{
+    background-color: #dc2167;
+}
+#sideMenu{
+    margin-left: -20px;
+    background-color: #dc2167;
+    text-decoration: none;
+}
+#sideMenu ul li a{
+    
+    color:white;
+    text-decoration: none;
+}
+#sideMenu ul li a:hover{
+    
+    color:#eeedf0;
+}
+#header,#content,#footer{
+    margin-top: 10px;
+}
+#contentIsi{
+    background-color: #eeedf0;
+    padding: 10px;
+}
